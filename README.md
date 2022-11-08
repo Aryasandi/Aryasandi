@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Arya Sandi</h1>
-- 🌱 I’m currently learning Programming Language, Framework
+- 🌱 I’m currently learning Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
